@@ -1,0 +1,1 @@
+# r-react-mongo-template
